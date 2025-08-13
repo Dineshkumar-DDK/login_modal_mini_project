@@ -1,0 +1,38 @@
+[
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Login%20modal/index.html",
+        "start": {
+            "line": 18,
+            "character": 63
+        },
+        "end": {
+            "line": 18,
+            "character": 71
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Login%20modal/index.html",
+        "start": {
+            "line": 19,
+            "character": 88
+        },
+        "end": {
+            "line": 19,
+            "character": 97
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Login%20modal/index.html",
+        "start": {
+            "line": 24,
+            "character": 54
+        },
+        "end": {
+            "line": 24,
+            "character": 61
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
+    }
+]
