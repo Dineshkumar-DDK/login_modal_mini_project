@@ -9,32 +9,60 @@
 </head>
 
 <body>
-   <!-- global container -->
-   <div class="flex items-center justify-center bg-rose-50 min-h-screen">
-    <!-- card container  -->
-     <div class="flex flex-col md:flex-row item-center justify-center space-y-10 md:space-y-0 rounded-2xl shadow-2xl bg-white m-6 md:m-0">
-        <!-- left content  -->
-        <div class="p-6 md:p-0">
-            <h2 class="text-4xl font-bold font-mono mb-5">Login</h2>
-            <p class="text-gray-600 font-light font-sans mb-12 max-w-sm">Login with mail and password</p>
-            <input type="text" class="border border-gray-300 rounded-md p-6 placeholder:font-sans placeholder:font-light">
+    <!-- global container -->
+    <div class="flex items-center justify-center bg-rose-50 min-h-screen">
+        <!-- card container  -->
+        <div
+            class="relative flex flex-col md:flex-row space-y-10 md:space-y-0 rounded-2xl shadow-2xl bg-white m-6 md:m-2">
+            <!-- left content  -->
+            <div class="p-6 md:p-20">
+                <h2 class="text-4xl font-bold font-mono mb-5">Login</h2>
+                <p class="text-gray-600 font-light font-sans mb-12 max-w-sm">Login with mail and password</p>
+                <input type="text"
+                    class="border border-gray-300 rounded-md p-6 placeholder:font-sans placeholder:font-light">
+
+
+
+                <!-- middle content  -->
+                <div class="flex flex-col md:flex-row justify-between items-center space-y-6 md:space-y-0 mt-6">
+                    <span class="text-cyan-700 font-thin">Forgot password?</span>
+                    <!-- button container  -->
+                    <button
+                        class="flex items-center justify-center shadow-sm shadow-cyan-100 trasition duration-150 font-bold font-sans rounded-md p-6 px-9  text-white  bg-cyan-700 hover:-translate-y-0 5 hover:bg-opacity-90">
+                        Next
+                    </button>
+                </div>
+
+                <!-- bottom divider -->
+                <div class="border-b border-b-gray-300 mt-12"></div>
+                <p class="text-center font-thin text-sm py-6 text-gray-400">
+                    Or continue with
+                </p>
+
+                <!-- bottom content -->
+                <div class="flex flex-col md:flex-row space-x-0 space-y-3 md:space-x-4 md:space-y-0">
+                    <!-- button -->
+                    <button
+                        class="flex items-center justify-center rounded shadow-md hover:shadow-lg hover:bg-opacity-30">
+                        <img src="/assets/facebook.png" alt="facebook logo">
+                        <span>Face book</span>
+                    </button>
+                    <button
+                        class="flex items-center justify-center rounded shadow-md hover:shadow-lg hover:bg-opacity-30">
+                        <img src="/assets/google.png" alt="google logo">
+                        <span>Face book</span>
+                    </button>
+                </div>
+
+            </div>
+
+            <!-- right content  -->
+
+            <img src="/assets/image.jpg" alt="" class="w-[450px] hidden md:block">
+
 
         </div>
-
-        <!-- middle content  -->
-        <div class="flex flex-col md:flex-row justify-between items-center space-y-6 md:space-y-0 mt-6">
-            <span>Forgot password?</span>
-            <!-- button container  -->
-             <button class="flex rounded p-3 px-2 text-xl text-white text-center bg-cyan-700 hover:-translate-y-0 5 hover:bg-opacity-0 5">
-                Next
-             </button>
-        </div>
-
-        <!-- bottom divider -->
-        <div class="border border-b-gray-500 mb-5"></div>
-        
-     </div>
-   </div>
+    </div>
 </body>
 
 </html>

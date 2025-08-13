@@ -34,5 +34,65 @@
             "character": 61
         },
         "color": "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Login%20modal/index.html",
+        "start": {
+            "line": 27,
+            "character": 33
+        },
+        "end": {
+            "line": 27,
+            "character": 60
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Login%20modal/index.html",
+        "start": {
+            "line": 33,
+            "character": 26
+        },
+        "end": {
+            "line": 33,
+            "character": 29
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Login%20modal/index.html",
+        "start": {
+            "line": 33,
+            "character": 47
+        },
+        "end": {
+            "line": 33,
+            "character": 52
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Login%20modal/index.html",
+        "start": {
+            "line": 60,
+            "character": 55
+        },
+        "end": {
+            "line": 60,
+            "character": 80
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Login%20modal/index.html",
+        "start": {
+            "line": 17,
+            "character": 33
+        },
+        "end": {
+            "line": 17,
+            "character": 35
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
     }
 ]
