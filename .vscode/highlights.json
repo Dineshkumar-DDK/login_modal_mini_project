@@ -94,5 +94,77 @@
             "character": 35
         },
         "color": "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Login%20modal/index.html",
+        "start": {
+            "line": 46,
+            "character": 82
+        },
+        "end": {
+            "line": 46,
+            "character": 87
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Login%20modal/index.html",
+        "start": {
+            "line": 45,
+            "character": 118
+        },
+        "end": {
+            "line": 45,
+            "character": 173
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Login%20modal/index.html",
+        "start": {
+            "line": 36,
+            "character": 34
+        },
+        "end": {
+            "line": 36,
+            "character": 36
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Login%20modal/index.html",
+        "start": {
+            "line": 26,
+            "character": 31
+        },
+        "end": {
+            "line": 26,
+            "character": 47
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Login%20modal/index.html",
+        "start": {
+            "line": 26,
+            "character": 81
+        },
+        "end": {
+            "line": 26,
+            "character": 106
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Login%20modal/index.html",
+        "start": {
+            "line": 20,
+            "character": 42
+        },
+        "end": {
+            "line": 20,
+            "character": 48
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
     }
 ]
