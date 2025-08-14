@@ -7,11 +7,11 @@
     <title>Login </title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
-        tailwind.config={
-            theme:{
-                fontFamily:{
-                    sans:['Mulish','sans-serif'],
-                    mono:['Rokkitti','monospace'],
+        tailwind.config = {
+            theme: {
+                fontFamily: {
+                    sans: ['Mulish', 'sans-serif'],
+                    mono: ['Rokkitti', 'monospace'],
                 },
             },
         }
@@ -28,29 +28,23 @@
             <div class="p-6 md:p-20">
                 <h2 class="text-4xl font-bold font-mono mb-5">Login</h2>
                 <p class="text-gray-600 font-light font-sans mb-12 max-w-sm">Login in to enjoy</p>
-                <input type="text" placeholder="Enter your email address" class="w-full border border-gray-300 rounded-md p-4 placeholder:font-sans placeholder:font-light"/>
+                <input type="text" placeholder="Enter your email address"
+                    class="w-full border border-gray-300 rounded-md p-4 placeholder:font-sans placeholder:font-light" />
                 <!-- middle content  -->
-                <div class="flex flex-col md:flex-row justify-between items-center space-y-6 md:space-y-0 md:space-x-3 mt-6">
+                <div
+                    class="flex flex-col md:flex-row justify-between items-center space-y-6 md:space-y-0 md:space-x-3 mt-6">
                     <span class="text-cyan-700 font-thin">Forgot password?</span>
                     <!-- button container  -->
                     <button
                         class="w-full md:w-auto flex items-center justify-center shadow-sm hover:shadow-lg space-x-4 shadow-cyan-100 trasition duration-150 font-bold font-sans rounded-md p-3 px-6  text-white  bg-cyan-700 hover:-translate-y-0 5 hover:bg-opacity-90">
                         <span>Next</span>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                class="w-7"
-                viewBox="0 0 24 24"
-                stroke-width="1.5"
-                stroke="#ffffff"
-                fill="none"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-                <line x1="5" y1="12" x2="19" y2="12" />
-                <line x1="13" y1="18" x2="19" y2="12" />
-                <line x1="13" y1="6" x2="19" y2="12" />
-              </svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="w-7" viewBox="0 0 24 24" stroke-width="1.5"
+                            stroke="#ffffff" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                            <line x1="5" y1="12" x2="19" y2="12" />
+                            <line x1="13" y1="18" x2="19" y2="12" />
+                            <line x1="13" y1="6" x2="19" y2="12" />
+                        </svg>
                     </button>
                 </div>
 
@@ -80,6 +74,18 @@
             <!-- right content  -->
 
             <img src="/assets/image.jpg" alt="" class="w-[450px] hidden md:block">
+            <div class="group
+             absolute flex justify-center items-center
+             -top-5 right-5 h-10 w-10 rounded-full bg-white md:bg-gray-200 hover:-translate-y-0.5 md:top-4 hover:cursor-pointer transition duration-150
+            ">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 text-black group-hover:text-gray-600"
+                    viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round"
+                    stroke-linejoin="round">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                    <line x1="18" y1="6" x2="6" y2="18" />
+                    <line x1="6" y1="6" x2="18" y2="18" />
+                </svg>
+            </div>
 
 
         </div>
